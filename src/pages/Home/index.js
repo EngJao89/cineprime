@@ -116,7 +116,7 @@ function Home(){
 
       <SearchContainer>
         <Input 
-          placeholder="Ex Capitão Fantástico" 
+          placeholder="Ex Godfather" 
           placeholderTextColor="#ddd"
           value={input}
           onChangeText={ (text) => setInput(text) }
